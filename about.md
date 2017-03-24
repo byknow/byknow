@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 有关
+permalink: /有关/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+“半以”， 
+
+后现代主义暗黑学派，
+
+一半花香，一半随性，钟情于悬疑奇幻，
+
+爱晒太阳；相关作品：《顷城·恋之西部传说》、《公子无恙耶》等。
+
+
+
+更多点击：→ [weibo.com/cheenei2011](http://weibo.com/cheenei2011)
+
+
+
